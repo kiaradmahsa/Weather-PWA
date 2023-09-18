@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="079960fd-dbf1-4c75-a5f0-adbd54c48fc1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/build" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TC0IsHIUQtS60XrD9QGHZ55peg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.3.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.3.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/study/thesis/thesis/github projects/hello-munnar-frontend-main/hello-munnar-frontend-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\front-end\react start\weather - pwa" />
+      <recent name="F:\front-end\react start\weather\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\front-end\react start\weather - pwa\public" />
+      <recent name="F:\front-end\react start\weather - pwa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.analyze">
+    <configuration name="analyze" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="analyze" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.analyze" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079960fd-dbf1-4c75-a5f0-adbd54c48fc1" name="Changes" comment="" />
+      <created>1690531679200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690531679200</updated>
+      <workItem from="1690531680733" duration="8390000" />
+      <workItem from="1690541339764" duration="5322000" />
+      <workItem from="1690561103666" duration="63000" />
+      <workItem from="1690562368431" duration="9000" />
+      <workItem from="1691067129748" duration="2871000" />
+      <workItem from="1691227231539" duration="951000" />
+      <workItem from="1691251083085" duration="6000" />
+      <workItem from="1692011234797" duration="7154000" />
+      <workItem from="1692174402888" duration="1029000" />
+      <workItem from="1692175622882" duration="1671000" />
+      <workItem from="1692451512110" duration="54000" />
+      <workItem from="1692528159118" duration="10209000" />
+      <workItem from="1692624584160" duration="663000" />
+      <workItem from="1692636626550" duration="18000" />
+      <workItem from="1692809372396" duration="2881000" />
+      <workItem from="1692954575519" duration="11125000" />
+      <workItem from="1693048819801" duration="24000" />
+      <workItem from="1693048968912" duration="3340000" />
+      <workItem from="1693124124090" duration="1848000" />
+      <workItem from="1693218304283" duration="188000" />
+      <workItem from="1693316445146" duration="662000" />
+      <workItem from="1694686213787" duration="678000" />
+      <workItem from="1694973867954" duration="589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,106 @@
+{
+  reports: [
+    {
+      aggregate: [Object],
+      functions: [],
+      dependencies: [],
+      maintainability: 121.20137675269498,
+      loc: 6,
+      cyclomatic: 1,
+      effort: 434.29292688284863,
+      params: 0,
+      path: './public/serviceworker.js'
+    }
+  ],
+  adjacencyMatrix: [ [ 0 ] ],
+  firstOrderDensity: 0,
+  visibilityMatrix: [ [ 0 ] ],
+  changeCost: 100,
+  coreSize: 0,
+  loc: 6,
+  cyclomatic: 1,
+  effort: 434.29292688284863,
+  params: 0,
+  maintainability: 121.20137675269498
+}
+-----------------------------------------------
+{
+  "reports": [
+    {
+      "aggregate": {
+        "sloc": {
+          "logical": 6,
+          "physical": 44
+        },
+        "cyclomatic": 1,
+        "halstead": {
+          "operators": {
+            "distinct": 5,
+            "total": 13,
+            "identifiers": [
+              "const",
+              "=",
+              "[]",
+              "()",
+              "."
+            ]
+          },
+          "operands": {
+            "distinct": 12,
+            "total": 17,
+            "identifiers": [
+              "CACHE_NAME",
+              "\"version-1\"",
+              "urlsToCache",
+              "<anonymous>",
+              "\"index.html\"",
+              "\"offline.html\"",
+              "self",
+              "this",
+              "\"install\"",
+              "addEventListener",
+              "\"fetch\"",
+              "\"activate\""
+            ]
+          },
+          "length": 30,
+          "vocabulary": 17,
+          "difficulty": 3.541666666666667,
+          "volume": 122.6238852375102,
+          "effort": 434.29292688284863,
+          "bugs": 0.040874628412503396,
+          "time": 24.127384826824922
+        },
+        "params": 0,
+        "line": 1,
+        "cyclomaticDensity": 16.666666666666664
+      },
+      "functions": [],
+      "dependencies": [],
+      "maintainability": 121.20137675269498,
+      "loc": 6,
+      "cyclomatic": 1,
+      "effort": 434.29292688284863,
+      "params": 0,
+      "path": "./public/serviceworker.js"
+    }
+  ],
+  "adjacencyMatrix": [
+    [
+      0
+    ]
+  ],
+  "firstOrderDensity": 0,
+  "visibilityMatrix": [
+    [
+      0
+    ]
+  ],
+  "changeCost": 100,
+  "coreSize": 0,
+  "loc": 6,
+  "cyclomatic": 1,
+  "effort": 434.29292688284863,
+  "params": 0,
+  "maintainability": 121.20137675269498
+}
